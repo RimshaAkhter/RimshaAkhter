@@ -1,5 +1,21 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>Hi! I'm **Rimsha Akhter Humaiyun**, a passionate learner exploring the world of technology, software development, and digital innovation.<br><br>🎓 Currently pursuing a **Bachelor of Science in Computer Science (BSCS)** at Shaheed Benazir Bhutto Dewan University.<br><br>💻 Currently enrolled in **Modern Web & App Development** at Saylani Mass IT Training Program, continuously improving my development skills.<br><br>🎨 Experienced in **Graphic Designing and Digital Marketing**, with practical experience in creative design, branding, and SEO.<br><br>🛒 Experienced in **E-commerce Management**, including online store management, product listings, and digital business operations.<br><br>🌱 **Currently Exploring:**<br>- Frontend & Web Development<br>- Programming and Software Development<br>- Modern Web Technologies<br><br>🎯 **My Career Goals:**<br><br>My goal is to become a skilled Software Developer, build innovative and user-friendly digital solutions, strengthen my problem-solving abilities, and continuously grow in the technology industry.<br><br>I enjoy learning new technologies, working on practical projects, collaborating with creative people, and turning ideas into real-world solutions.<br><br>**"Learn. Build. Innovate. Grow."** 🚀
+# Hi, I'm Rimsha Akhter Humaiyun 👋
+
+Computer Science student and aspiring Software Developer, passionate about building clean, user-friendly web experiences.
+
+## 🎓 About Me
+- BSCS student at **Shaheed Benazir Bhutto Dewan University**
+- Enrolled in **Modern Web & App Development** at Saylani Mass IT Training Program
+- Background in **Graphic Design, Digital Marketing (SEO)** and **E-commerce Management**
+
+## 🌱 Currently Exploring
+- Frontend & Web Development
+- Programming & Software Development
+- Modern Web Technologies
+
+## 🎯 Goal
+To grow into a skilled Software Developer who builds innovative digital solutions and keeps sharpening problem-solving skills.
+
+> *"Learn. Build. Innovate. Grow."* 🚀
 
 
 ## 🌐 Socials:
